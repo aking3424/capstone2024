@@ -1,10 +1,10 @@
 {
-  "name": "capstone2024",
+  "name": "your-app-name",
   "version": "1.0.0",
-  "description": "Your project description here",
-  "main": "index.js",
+  "description": "Your app description",
+  "main": "main.jsx", 
   "scripts": {
-    "start": "node app.jsx"
+    "start": "node main.jsx"
   },
   "dependencies": {
   },
